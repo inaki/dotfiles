@@ -1,13 +1,6 @@
-![dotfiles](https://raw.githubusercontent.com/mscoutermarsh/dotfiles/master/autobot.jpg)
 
 dotfiles
 ===================
-![screenshot](https://github.com/mscoutermarsh/dotfiles/blob/master/screenshot.png)
-(Here's what my setup looks like. Vim/Tmux)
-
-## New to Vim?
-+ [Learning Vim in a Week](https://mikecoutermarsh.com/boston-vim-learning-vim-in-a-week/)
-+ [Upcase: The Art of Vim](https://upcase.com/vim)
 
 ## Installation
 
@@ -60,14 +53,6 @@ This overwrites your default Vim installation. You should restart terminal after
 **Oh-My-ZSH!**
 I use Oh-My-ZSH instead of Bash. Info & installation instructions here: https://github.com/robbyrussell/oh-my-zsh
 
-**Tmux**
-```
-$ brew install tmux
-$ brew install reattach-to-user-namespace
-```
 
----
-These are a heavily modified version of Thoughtbot's dotfiles. More detailed instructions are available here: http://github.com/thoughtbot/dotfiles.
 
-#### Contributing
-Did you have trouble installing this? Could I make the documentation better? Let me know [@mscccc](http://twitter.com/mscccc). Or please fork & create a pull request with your suggestions.
+
